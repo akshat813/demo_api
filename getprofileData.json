@@ -4,7 +4,10 @@
   "profilePic" : "",
   "rating" : "2250",
   "tournamentInfo" : [
+     {
       "playedCount" : "34",
       "wonCount" : "09",
-      "winPercentage" : "26%",]
+      "winPercentage" : "26%",
+     }
+   ]
 }
