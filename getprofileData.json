@@ -3,11 +3,7 @@
   "name" : "Simon Baker",
   "profilePic" : "",
   "rating" : "2250",
-  "tournamentInfo" :
-     {
-      "playedCount" : "34",
-      "wonCount" : "09",
-      "winPercentage" : "26%"
-     }
-  
+  "playedCount" : "34",
+  "wonCount" : "09",
+  "winPercentage" : "26%" 
 }
